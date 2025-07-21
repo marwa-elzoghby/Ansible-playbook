@@ -152,11 +152,11 @@ ansible-playbook -i inventory.ini aws_linux_setup.yml
 
 ## 📸 Screenshot Proof
 
-- Successful SSH connections to both instances (screenshots/ssh-test.png)
-- Ansible ping test returning "pong" (screenshots/ping-test.png)
-- Playbook execution with all tasks marked as "changed" or "ok" (screenshots/playbook-run.png)
-- Nginx welcome pages displaying on both machines (screenshots/Nginx-test1.png),(screenshots/Nginx-test2.png)
-- New devopsuser visible in `/etc/passwd`(screenshots/new-user-test.png),(screenshots/new-user-test2.png)
+- Successful SSH connections to both instances (./screenshots/ssh-test.png)
+- Ansible ping test returning "pong" (./screenshots/ping-test.png)
+- Playbook execution with all tasks marked as "changed" or "ok" (./screenshots/playbook-run.png)
+- Nginx welcome pages displaying on both machines (./screenshots/Nginx-test1.png),(./screenshots/Nginx-test2.png)
+- New devopsuser visible in `/etc/passwd`(./screenshots/new-user-test.png),(./screenshots/new-user-test2.png)
 
 ---
 
